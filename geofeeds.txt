@@ -5,7 +5,9 @@
 # This data feed provides approximate geo locations for a subset of
 # WICOM SAS IP space, and the data included in this feed may be used only
 # for improving the accuracy of Geo:IP lookups
+# Website: https://wicomsas.com
 # ASN 269986 (rfc3339)
+# ip_prefix,alpha2code,region,city,postal_code
 201.49.128.0/24,CO,CO-ARA,Arauca,810001
 201.49.129.0/24,CO,CO-ARA,Arauca,810001
 201.49.130.0/24,CO,CO-ARA,Arauca,810001
@@ -16,6 +18,6 @@
 40.27.91.0/24,CO,CO-ARA,Arauca,810001
 40.27.92.0/24,CO,CO-ARA,Arauca,810001
 40.27.93.0/24,CO,CO-ARA,Arauca,810001
-40.27.94.0/24,CO,CO-ARA,Arauca,810001
-40.27.95.0/24,CO,CO-ARA,Arauca,810001
+40.27.94.0/24,CO,CO-RVE,Arauca,815010
+40.27.95.0/24,CO,CO-RVE,Arauca,815010
 2803:5ee0::/32,CO,CO-ARA,Arauca,810001
