@@ -6,9 +6,16 @@ Repositories that allow us to keep the geolocation of the IPs assigned to the IS
 Company: SERVICIOS PROFESIONALES WICOM SAS
 ASN: 269986
 City: Arauca
+State: Arauca
 Country: Colombia
-Email: noc@wicomsa.com
 Postal Code: 810001
+Email: noc@wicomsas.com
 Tel: +57 (607) 8859835
+Cel: +57 3133215073
 Web: https://wicomsas.com
+
+[Geofeed]
+- Web: https://wicomsas.com/geofeed.txt
+- GitHub Raw: https://raw.githubusercontent.com/cags84/wicom-geofeed/main/geofeed.csv
+- GitHub Raw: https://raw.githubusercontent.com/cags84/wicom-geofeed/main/geofeed.txt
 ```
