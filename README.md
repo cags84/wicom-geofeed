@@ -11,7 +11,8 @@ Country: Colombia
 Postal Code: 810001
 Email: noc@wicomsas.com
 Tel: +57 (607) 8859835
-Web: https://wicomsas.com
+Web: [https://wicomsas.com](https://wicomsas.com)
+PeeringDB: https://www.peeringdb.com/net/34432
 
 [Geofeed]
 - Web: https://wicomsas.com/geofeed.txt
